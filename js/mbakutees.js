@@ -23,7 +23,7 @@ function mulai() {
 
 function wa(isi) {
   window.open(
-    "https://api.whatsapp.com/send?text=Makasih%20yo%20jik,%20wes%20inget%20ulang%20tahunku,%20sesuk%20tak%20tumbaske%20paketan%20wess%20wkwk " +
+    "https://wa.me/6287819844990?text=Makasih%20yo%20jik,%20wes%20inget%20ulang%20tahunku,%20sesuk%20tak%20tumbaske%20paketan%20wess%20wkwk " +
       isi
   );
 }
