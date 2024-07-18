@@ -184,10 +184,6 @@ p.cr::after {
   box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.2);
 }
 
-.kartu-ucapan span {
-  font-size: 2em;
-}
-
 .kartu-ucapan img {
   display: block;
   background-size: cover;
